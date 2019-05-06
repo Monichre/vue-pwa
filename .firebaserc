@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "bento-starter"
+    "default": "bento-starter",
+    "dev": "pwa-starter-76208"
   }
 }
