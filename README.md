@@ -87,3 +87,5 @@ Want to chat with us  ? 👉 [join bento-starter slack](https://join.slack.com/t
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+
+[Hosted URL](https://pwa-starter-76208.firebaseapp.com)
